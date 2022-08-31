@@ -180,11 +180,6 @@
           },
           {
             "type": "Task",
-            "name": "MFTClusterTask",
-            "MOs" : ["mClusterOccupancy"]
-          },
-          {
-            "type": "Task",
             "name": "MFTAsyncTask",
             "MOs" : ["mTrackROFNEntries"]
           }
